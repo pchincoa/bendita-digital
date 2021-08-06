@@ -84,4 +84,16 @@ import LocomotiveScroll from '../../../src/locomotive-scroll';
 
     }, 1000)
 
+
+    var scroll = new LocomotiveScroll({
+        el: document.querySelector('[data-scroll-container]'),
+        smooth: true,
+        smartphone: {
+            smooth: true
+        },
+        tablet: {
+            smooth: true
+        }
+    });
+
 })();
