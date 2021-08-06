@@ -1,1 +1,1 @@
-# bendita-digital is a clone of Locomotiv Scroll Template
+### bendita-digital is a clone of Locomotiv Scroll Template
