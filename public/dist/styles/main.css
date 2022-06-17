@@ -2,8 +2,7 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html {
     line-height: 1.15;
-    -webkit-text-size-adjust: 100%
-}
+    -webkit-text-size-adjust: 100%;}
 
 body {
     margin: 0
@@ -1143,8 +1142,8 @@ html:not(.has-scroll-smooth) .c-fixed {
 }
 
 .c-summary_text {
-    font-size: 1.125rem;
-    font-weight: 600;
+    font-size: 1.55rem;
+    font-weight: 500;
     opacity: 0;
     transform: translateY(60px);
     transition: transform 1s cubic-bezier(.215,.61,.355,1)
@@ -1350,7 +1349,9 @@ html:not(.has-scroll-smooth) .c-fixed {
 }
 
 .c-sections_infos_text {
-    margin-top: 1.25rem
+    margin-top: 1.25rem;
+    font-size: 1.3rem !important;
+    font-weight: 500;
 }
 
 .c-image {
