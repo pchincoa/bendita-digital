@@ -6,6 +6,9 @@ html {
     &.has-scroll-dragging {
         user-select: none;
     }
+
+
+    
 }
 
 body {
@@ -13,6 +16,8 @@ body {
         overflow: hidden;
     }
 }
+
+
 
 [data-scroll-container] {
     .has-scroll-smooth & {
