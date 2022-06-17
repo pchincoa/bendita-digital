@@ -86,7 +86,7 @@ import LocomotiveScroll from '../../../src/locomotive-scroll';
 
     // JS for Smartphone and Tablet
 
-    var scroll = new LocomotiveScroll({
+    const scroll = new LocomotiveScroll({
         el: document.querySelector('[data-scroll-container]'),
         smooth: true,
         smartphone: {
